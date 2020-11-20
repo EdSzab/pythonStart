@@ -30,5 +30,5 @@ for x in range(0, 10, 1):
 ans4 = input()
 
 if ans4 == ('4'):
-    print("good job! you passed.")
+    print("good job! you passed!")
 
